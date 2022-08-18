@@ -8,10 +8,10 @@
   --font-primary: "Arvo", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Arvo", monospace;
-  --bg-color: #ffffff;
-  --bg-color-transparent: #9ef0a2;
-  --font-color: #6ba976;
-  --btn-bg-color: #9ef0a2;
+  --bg-color: #8ced8f;
+  --bg-color-transparent: #8ced8f;
+  --font-color: #ffffff;
+  --btn-bg-color: #5db360;
   --accent-color: #ffffff;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
