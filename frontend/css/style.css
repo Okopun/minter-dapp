@@ -5,8 +5,8 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Roboto", serif;
-  --font-secondary: "Roboto", sans-serif;
+  --font-primary: "Roboto", sans-serif;
+  --font-secondary: "Roboto", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #ffffff;
   --bg-color-transparent: #9ef0a2;
