@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Roboto", sans-serif;
-  --font-secondary: "Roboto", serif;
-  --font-code: "Roboto", monospace;
+  --font-primary: "Arvo", sans-serif;
+  --font-secondary: "Arvo", serif;
+  --font-code: "Arvo", monospace;
   --bg-color: #ffffff;
   --bg-color-transparent: #9ef0a2;
   --font-color: #6ba976;
