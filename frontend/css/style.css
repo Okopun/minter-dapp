@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Silkscreen", sans-serif;
-  --font-secondary: "Silkscreen", serif;
-  --font-code: "Silkscreen", monospace;
+  --font-primary: "Roboto", sans-serif;
+  --font-secondary: "Roboto", serif;
+  --font-code: "Roboto", monospace;
   --bg-color: #ffffff;
   --bg-color-transparent: #9ef0a2;
   --font-color: #6ba976;
