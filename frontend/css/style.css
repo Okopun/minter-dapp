@@ -10,9 +10,9 @@
   --font-code: "Arvo", monospace;
   --bg-color: #dcedc8;
   --bg-color-transparent: #5db360;
-  --font-color: #ffffff;
+  --font-color: #5db360;
   --btn-bg-color: #5db360;
-  --accent-color: #ffffff;
+  --accent-color: #5db360;
   --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 0px;
 }
